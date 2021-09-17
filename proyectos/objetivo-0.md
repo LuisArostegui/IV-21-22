@@ -9,7 +9,7 @@ línea con tus iniciales.
 |--------------------------------------------|---------|-----------|
 | <!-- Enlace de A P G --> | | |
 | <!-- Enlace de A E M --> | | |
-| <!-- Enlace de LuisArostegui --> | | |
+| https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/1 | 0.0.1 | |
 | <!-- Enlace de Paszser --> | | |
 | <!-- Enlace de Mapachana --> | | |
 | <!-- Enlace de IgnasiCR --> | | |
