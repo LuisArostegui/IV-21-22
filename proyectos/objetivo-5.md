@@ -6,7 +6,7 @@
 | <!-- Enlace de Esturillo98 --> | | |
 | [LuisArostegui](https://github.com/LuisArostegui/MyWallet/pull/35) | 0.0.9 | |
 | <!-- Enlace de Paszser --> | | |
-| https://github.com/Mapachana/Predictor-COVID/pull/19 | 0.0.9 | ✓ |
+| https://github.com/Mapachana/Predictor-COVID/pull/19 | 0.0.10 | ✓ |
 | https://github.com/eantoniocalo18/IV/pull/36 | 0.0.11 | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
