@@ -1,7 +1,6 @@
 # Asignación para el objetivo 2
 
 
-
 | URL                                        | Quién lo desarrolla |
 |--------------------------------------------|---------------------|
 | [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/6) | @joaquingv12 |
@@ -9,7 +8,7 @@
 | [LuisArostegui](https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/6) | @venrra |
 | https://github.com/Paszser/IV/pull/5 | @alexespana |
 | https://github.com/Mapachana/Proyecto-IV/pull/5 | @Pablont98 |
-| <!-- Enlace de eantoniocalo18 --> | | |
+| [eantoniocalo18](https://github.com/eantoniocalo18/IV/pull/4) | @sorozcov |
 | [NachoCarher](https://github.com/NachoCarher/MyHams/pull/3)| Parka015  |
 | <!-- Enlace de C L A --> | | |
 | [Balrrach](https://github.com/Balrrach/IV-Proyecto/pull/7) | @Asmilex |
@@ -35,11 +34,11 @@
 | <!-- Enlace de L C G J --> | | |
 | [migueorg](https://github.com/migueorg/SearchCulture/pull/6) | @arguellesm |
 | [jesusmarzor](https://github.com/jesusmarzor/Proyecto-IV/pull/6) | @Balrrach |
-| <!-- Enlace de francisco3207 --> | | |
+| [francisco3207](https://github.com/francisco3207/IVProyecto/pull/2) | @morevi |
 | [amerigal](https://github.com/amerigal/proyecto_iv/pull/5)  | @noise-kngdm |
 | [Asmilex](https://github.com/Asmilex/IV/pull/6) |  |
 | https://github.com/ismaelmontesinos/PracticaIV/pull/3 | @agr8 |
-| <!-- Enlace de morevi --> | | |
+| https://github.com/morevi/jobcontrol/pull/1 | @eantoniocalo18 |
 | https://github.com/Pablont98/IV/pull/8 | @vlljuan99 |
 | https://github.com/Slowmybrosh/PracticaIV/pull/10 | @migueorg |
 | https://github.com/sorozcov/proyecto-iv-ugr/pull/7 | @gomares |
@@ -52,7 +51,7 @@
 | https://github.com/albertotc99/MercadoClubesPro/pull/5 | edusegrich |
 | https://github.com/aleveji/BuscaRecetas/pull/4 | @luisss20 |
 | [paula1999](https://github.com/paula1999/IV/pull/5) | @Olasergiolas |
-| <!-- Enlace de xCyal --> | | |
+| [xCyal](https://github.com/xCyal/A-Tracker/pull/2) | @francisco3207 |
 | [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/11) | @paula1999 |
 | [JAntonioVR](https://github.com/JAntonioVR/IV-2021-2022/pull/8) | @mapachana |
 | <!-- Enlace de pablozafra97 --> | | |

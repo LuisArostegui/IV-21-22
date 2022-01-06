@@ -1,7 +1,7 @@
-# Usuarios
+# Objetivo 8
 
-| URL                                        | Versión | Alcanzado |
-|--------------------------------------------|---------|-----------|
+| URL                                                           | Versión | Alcanzado |
+|---------------------------------------------------------------|---------|-----------|
 | <!-- Enlace de noise-kngdm --> | | |
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
@@ -10,7 +10,7 @@
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
-| <!-- Enlace de Balrrach --> | | |
+| https://github.com/Balrrach/Instant-Eat/pull/37 | 0.0.25 | |
 | <!-- Enlace de alexespana --> | | |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
@@ -24,7 +24,7 @@
 | <!-- Enlace de lentes4k --> | | |
 | <!-- Enlace de joaquingv12 --> | | |
 | <!-- Enlace de gomares --> | | |
-| <!-- Enlace de modejota --> | | |
+| https://github.com/modejota/StoragIV/pull/35  | 0.0.12 | ✓ |
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
@@ -33,12 +33,12 @@
 | <!-- Enlace de migueorg --> | | |
 | <!-- Enlace de jesusmarzor --> | | |
 | <!-- Enlace de francisco3207 --> | | |
-| <!-- Enlace de amerigal --> | | |
+| https://github.com/amerigal/gestor-recibos/pull/46 | 0.0.13 | |
 | <!-- Enlace de Asmilex --> | | |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
 | <!-- Enlace de Pablont98 --> | | |
-| <!-- Enlace de Slowmybrosh --> | | |
+| https://github.com/Slowmybrosh/DietApp/pull/47 | 0.0.13 | ✓ |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
 | <!-- Enlace de Xileon310 --> | | |
